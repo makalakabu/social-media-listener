@@ -1,0 +1,1 @@
+This project intended for research purposes only. Social media listener project accross multiple social media, using respective public api - if there's any -, crawling and scraping using playwright and Scrapy
